@@ -1,0 +1,13 @@
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\bin\Debug\Mobile Shopping.exe.config
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\bin\Debug\Mobile Shopping.exe
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\bin\Debug\Mobile Shopping.pdb
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\bin\Debug\Mobile Shopping.xml
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.vbprojAssemblyReference.cache
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile_Shopping.frmLogin.resources
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile_Shopping.Resources.resources
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.vbproj.GenerateResource.cache
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.vbproj.CoreCompileInputs.cache
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.exe
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.xml
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile Shopping.pdb
+C:\Users\Ayalk\Documents\Visual Studio 2017\Projects\Mobile Shopping\obj\Debug\Mobile_Shopping.frmMainMenu.resources

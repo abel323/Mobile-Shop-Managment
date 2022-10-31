@@ -1,0 +1,28 @@
+F:\Mobile Shopping1\bin\Debug\Mobile Shopping.exe.config
+F:\Mobile Shopping1\bin\Debug\Mobile Shopping.exe
+F:\Mobile Shopping1\bin\Debug\Mobile Shopping.pdb
+F:\Mobile Shopping1\bin\Debug\Mobile Shopping.xml
+F:\Mobile Shopping1\obj\Debug\Mobile Shopping1.vbprojAssemblyReference.cache
+F:\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmLogin.resources
+F:\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmMainMenu.resources
+F:\Mobile Shopping1\obj\Debug\Mobile_Shopping.Resources.resources
+F:\Mobile Shopping1\obj\Debug\Mobile Shopping1.vbproj.GenerateResource.cache
+F:\Mobile Shopping1\obj\Debug\Mobile Shopping.exe
+F:\Mobile Shopping1\obj\Debug\Mobile Shopping.xml
+F:\Mobile Shopping1\obj\Debug\Mobile Shopping.pdb
+D:\Visual Studio Project\Mobile Shopping1\bin\Debug\Mobile Shopping.exe.config
+D:\Visual Studio Project\Mobile Shopping1\bin\Debug\Mobile Shopping.exe
+D:\Visual Studio Project\Mobile Shopping1\bin\Debug\Mobile Shopping.pdb
+D:\Visual Studio Project\Mobile Shopping1\bin\Debug\Mobile Shopping.xml
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile Shopping1.vbprojAssemblyReference.cache
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmLogin.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmBrand.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmMainMenu.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.Resources.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile Shopping1.vbproj.GenerateResource.cache
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile Shopping.exe
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile Shopping.xml
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile Shopping.pdb
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmMobile.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmCustomer.resources
+D:\Visual Studio Project\Mobile Shopping1\obj\Debug\Mobile_Shopping.frmSale.resources
